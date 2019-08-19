@@ -1,3 +1,2 @@
-<<<<<<< HEAD
-[vers le lien index.html](file:///Users/yongchin/markdown-warmup-html/index.html)
->>>>>> 
+
+[vers le lien index.html] (file:///Users/yongchin/markdown-warmup-html/index.html)
